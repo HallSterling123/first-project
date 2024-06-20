@@ -42,6 +42,12 @@
         "projectId": "6d9acbfb-dcf6-42d9-ade2-43050a1400c8"
       }
     },
-    "owner": "sterling_hall"
+    "owner": "sterling_hall",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/6d9acbfb-dcf6-42d9-ade2-43050a1400c8"
+    }
   }
 }
